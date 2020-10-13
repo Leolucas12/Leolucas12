@@ -1,8 +1,8 @@
-<h2 align="left">Hello, I'm Leandro Santos</h1>
+<h2 align="left">Hello, I'm Leandro Santos ✋</h1>
 <p align=left>I'm studying <strong>Web Development</strong>.</p>
 <p align="left">🚀 Skills: <strong>HTML5, CSS3, NodeJs and React</strong></p>
 <p align="left">📚 Currently studying: <strong>Java and C++</strong></p>
-<p align="left">💌 Social networks: ⤵️</p>
+<p align="left">🌐 Social networks:</p>
 
 <p align="left">
   <a href="https://github.com/Leolucas12"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a>
