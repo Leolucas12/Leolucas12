@@ -1,7 +1,7 @@
 <h2 align="left">Hello, I'm Leandro Santos ✋</h1>
 <p align=left>I'm studying <strong>Web Development</strong>.</p>
 <p align="left">🚀 Skills: <strong>HTML5, CSS3, NodeJs and React</strong></p>
-<p align="left">📚 Currently studying: <strong>Java and C++</strong></p>
+<p align="left">📚 Currently studying: <strong>C and C++</strong></p>
 <p align="left">🌐 Social networks:</p>
 
 <p align="left">
